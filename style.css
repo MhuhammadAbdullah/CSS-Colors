@@ -1,0 +1,23 @@
+body{
+    background-color:#bb9457;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.main{
+background-color:#432818;
+color: white;
+padding: 10px;
+}
+.two{
+    color: #432818;
+}
+.three{
+background-color: #432818;
+color: #ffe6a7;
+}
+.four{
+    background-color: #432818;
+    color: #ffe6a7;
+}
