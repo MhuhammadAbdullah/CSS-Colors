@@ -1,34 +1,48 @@
 body{
-    background-color:#bb9457;
-}
-h1{
     text-align: center;
-    text-decoration: underline;
+    width: 600px; 
+    height: 250px;
+    margin: 50px auto;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, 
+                rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, 
+                rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
-.main{
-background-color:#432818;
-color: white;
-padding: 10px;
+
+
+button{
+    width: 75px;
+    height: 25px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    background-color: black;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, 
+                rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, 
+                rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+                
+
+    
 }
-.two{
-    color: #432818;
+a{
+    text-decoration: none;
+    color: #fff;
 }
-.three{
-background-color: #432818;
-color: #ffe6a7;
+a:hover{
+    color: aqua;
 }
-.four{
-    background-color: #432818;
-    color: #ffe6a7;
+
+a:active{
+    color: aqua;
 }
-.five{
-    background-color: #ffe6a7;
-    color: #432818;
-}
-.six{
-    background-color: #432818;
-    color: #bb9457;
-}
-.seven{
-    color: #ffe6a7;
+
+h1{
+    padding-top: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
 }

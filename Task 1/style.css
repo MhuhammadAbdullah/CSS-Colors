@@ -1,0 +1,58 @@
+body{
+    background-color:#bb9457;
+    text-align: center;
+}
+body>button{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.main{
+background-color:#432818;
+color: white;
+padding: 10px;
+}
+.two{
+    color: #432818;
+}
+.three{
+background-color: #432818;
+color: #ffe6a7;
+}
+.four{
+    background-color: #432818;
+    color: #ffe6a7;
+}
+.five{
+    background-color: #ffe6a7;
+    color: #432818;
+}
+.six{
+    background-color: #432818;
+    color: #bb9457;
+}
+.seven{
+    color: #ffe6a7;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffe6a7;
+  }
+  
+  a:visited {
+    color: #bb9457;
+  }
+  
+  a:hover {
+    color: #ffe6a7;
+  }
+  
+  a:active {
+    color: #ffe6a7;
+  }
+button{
+    background-color: #432818;
+}

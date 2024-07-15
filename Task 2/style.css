@@ -1,0 +1,63 @@
+body{
+    background-color: #b7e4c7;
+   
+}
+button{
+
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #061406;
+}
+button:hover{
+    background-color: rgb(12, 219, 143);
+    color: #b7e4c7;
+    
+}
+
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+   color: #d8f3dc;
+   background-color: #061406;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+.para1{
+color: #2d6a4f;
+padding: 10px;
+text-align: center;
+
+}
+
+li>button{
+    color: #b7e4c7;
+    background-color: #061406;
+    margin: 8px;
+    
+}
+a{
+    text-decoration: none;
+    color: #b7e4c7;
+}
+a:hover{
+    color: #061406;
+}
+a:visited{
+    background-color: #b7e4c7;
+}
+
+.para2{
+    color: #2d6a4f;
+}
+.para3{
+background-color: #061406;
+color: #d8f3dc;
+padding-top: 2px;
+padding-bottom: 2px;
+}
+.para4{
+    color: #2d6a4f;
+}
